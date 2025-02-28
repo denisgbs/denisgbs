@@ -8,9 +8,11 @@
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios no setor tecnológico. Tenho paixão por aprender e aplicar o que aprendo para criar soluções inovadoras.
 
 #
-
+ <div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DenisGbs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=07e9a5&text_color=c9d1d9&bg_color=0d1117" alt="Denis Gomes Barbosa github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DenisGbs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=07e9a5&text_color=FFF&bg_color=0d1117" alt="Denis Gomes Barbosa github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisGbs&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div> 
 
@@ -22,27 +24,24 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios no
 
 #
 
-<h3 align="left">Entre em contato comigo!</h3>
+<h3 align="center">Entre em contato comigo!</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
 
-<h3 align="left">Minhas tecnologias</h3>
+<h3 align="center">Minhas tecnologias</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
-
-
-##
+#
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
 <br></div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
