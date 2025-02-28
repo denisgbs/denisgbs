@@ -56,8 +56,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios no
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DenisGbs}/count.svg" /></p> 
 <br></div>
 
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenisGbs/DenisGbs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DenisGbs/DenisGbs/output/github-contribution-grid-snake-dark.svg">
