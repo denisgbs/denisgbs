@@ -9,7 +9,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios no
 
 #
  <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3>* Estatísticas do GitHub *</h3>
   <br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DenisGbs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=07e9a5&text_color=FFF&bg_color=0d1117" alt="Denis Gomes Barbosa github stats"/> 
@@ -40,8 +40,20 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios no
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DenisGbs}/count.svg" /></p> 
 <br></div>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenisGbs/DenisGbs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DenisGbs/DenisGbs/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DenisGbs/DenisGbs/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
